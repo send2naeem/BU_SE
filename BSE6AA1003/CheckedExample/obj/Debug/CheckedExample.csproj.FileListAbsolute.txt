@@ -1,0 +1,5 @@
+D:\CWM\BSE6AA1003\CheckedExample\bin\Debug\CheckedExample.exe.config
+D:\CWM\BSE6AA1003\CheckedExample\bin\Debug\CheckedExample.exe
+D:\CWM\BSE6AA1003\CheckedExample\bin\Debug\CheckedExample.pdb
+D:\CWM\BSE6AA1003\CheckedExample\obj\Debug\CheckedExample.exe
+D:\CWM\BSE6AA1003\CheckedExample\obj\Debug\CheckedExample.pdb
